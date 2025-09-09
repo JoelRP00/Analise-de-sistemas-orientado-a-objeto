@@ -30,7 +30,7 @@ O AIssist permitirá que o usuário tenha total controle sobre o chamado aberto 
 ---
 
 ## 📋 Backlog do Projeto <a id="backlog"></a>
-  [Backlog](./UserStories.txt)
+  [Backlog](./docs/UserStories.txt)
 
   ## DoR - Definition of Ready <a id="dor"></a>
 
