@@ -11,8 +11,6 @@
 </p>
 
 > Status do Projeto: Em desenvolvimento 
->
-> Pasta de Documentação: [Link](docs/cliente) 📄
 
 
 ## Projeto <a id="projeto"></a>
@@ -23,16 +21,16 @@ também soluções já existentes no próprio banco de dados da IA.
 
 ## User Stories <a id="UserStories">
   [User Stories](./UserStories.txt)
-  
-## 📅 Cronograma de Sprints <a id="sprint"></a>
+
+## Cronograma de Sprints <a id="sprint"></a>
 
 | Sprint          |    Período    | Documentação                                     |
 | --------------- | :-----------: | ------------------------------------------------ |
-| 🔖 **SPRINT 1** | 10/03 - 30/03 | [Sprint 1 Docs](./UserStories.txt) |
-| 🔖 **SPRINT 2** | 07/04 - 27/04 | [Sprint 2 Docs](./docs/processo/sprints/sprint-2/README.md) |
-| 🔖 **SPRINT 3** | 05/05 - 25/05 | [Sprint 3 Docs](./docs/processo/sprints/sprint-3/README.md) |
+|  **SPRINT 1** | 10/03 - 30/03 | [Sprint 1 Docs](./UserStories.txt) |
+|  **SPRINT 2** | 07/04 - 27/04 | [Sprint 2 Docs](./docs/processo/sprints/sprint-2/README.md) |
+|  **SPRINT 3** | 05/05 - 25/05 | [Sprint 3 Docs](./docs/processo/sprints/sprint-3/README.md) |
 
-## 💻 Tecnologias <a id="tecnologias"></a>
+##  Tecnologias <a id="tecnologias"></a>
 
 <h4 align="center">
  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></a>
