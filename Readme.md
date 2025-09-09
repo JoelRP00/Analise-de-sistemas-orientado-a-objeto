@@ -1,10 +1,16 @@
 
 # AIssist 
-
+  <p align="center">
+      <img src="docs/img/logo.png" alt="logo da AIssist" width="200">
+      <h2 align="center"> AIssist</h2>
+  </p>
 
 <p align="center">
-  <a href ="#projeto"> Projeto</a>  |
-  <a href ="#UserStories"> User Stories</a>  |
+  | <a href ="#desafio"> Desafio</a>  |
+  <a href ="#solucao"> Solução</a>  |   
+   <a href ="#backlog"> Backlog do Produto</a>  |
+  <a href ="#dor">DoR</a>  |
+  <a href ="#dod">DoD</a>  |
   <a href ="#sprint"> Cronograma de Sprints</a>  |
   <a href ="#tecnologias">Tecnologias</a> |
   <a href ="#integrantes"> Integrantes</a> |
@@ -13,22 +19,49 @@
 > Status do Projeto: Em desenvolvimento 
 
 
-## Projeto <a id="projeto"></a>
+##  Desafio <a id="desafio"></a>
 
-O projeto consiste em desenvolver um gerenciador de chamados auxiliado por IA para facilitar e agilizar os atendimentos de dentro da empresa, a IA ficará responsável pela
-priorização e categorização dos chamados, assim como o encaminhamento para o devido técnico, sendo capaz de gerar automaticamente soluções para problemas recorrentes e 
-também soluções já existentes no próprio banco de dados da IA.
+O desafia consiste em desenvolver um sistema de gerenciamento de chamados com o auxílio de uma Inteligência Artificial para propor possíveis soluções e ajudar na categorização de chamados, deixando o processo mais eficiente e menos propenso à falhas.
 
-## User Stories <a id="UserStories">
-  [User Stories](./UserStories.txt)
+##  Solução <a id="solucao"></a>
+
+O AIssist permitirá que o usuário tenha total controle sobre o chamado aberto podendo verificar se a solução proposta pela Inteligência Artificial solucionou o problema ou não. Caso não, o chamado será enviado para o time de atendimento onde receberá o atendimento de acordo com a criticidade e podendo ser consultado a qualquer momento para a validação da requisição.
+
+---
+
+## 📋 Backlog do Projeto <a id="backlog"></a>
+  [Backlog](./UserStories.txt)
+
+  ## DoR - Definition of Ready <a id="dor"></a>
+
+* User Stories com **Critérios de Aceitação**
+* Subtarefas divididas **a partir das US**
+* Design no **Figma**
+* Modelagem do **Banco de Dados**
+* Diagrama de **Rotas**
+* Banco de Dados **Vetorizado** do Cliente
+
+## DoD - Definition of Done <a id="dod"></a>
+
+* Manual de Usuário
+* Manual da Aplicação
+* Código completo
+
+---
 
 ## Cronograma de Sprints <a id="sprint"></a>
 
 | Sprint          |    Período    | Documentação                                     |
 | --------------- | :-----------: | ------------------------------------------------ |
-|  **SPRINT 1** | 10/03 - 30/03 | [Sprint 1 Docs](./UserStories.txt) |
-|  **SPRINT 2** | 07/04 - 27/04 | [Sprint 2 Docs](./docs/processo/sprints/sprint-2/README.md) |
-|  **SPRINT 3** | 05/05 - 25/05 | [Sprint 3 Docs](./docs/processo/sprints/sprint-3/README.md) |
+| 🔖 **SPRINT 1** | 18/08 - 24/08  | [Sprint 1 Docs](./docs/sprints/sprint%201.md) | 
+| 🔖 **SPRINT 2** | 25/08 - 31/08  | [Sprint 2 Docs](./docs/sprints/sprint%202.md) | 
+| 🔖 **SPRINT 3** | 01/09 - 07/09  | [Sprint 3 Docs](./docs/sprints/sprint%203.md) | 
+| 🔖 **SPRINT 4** | 08/09 - 14/09  | [Sprint 4 Docs](./docs/sprints/sprint%204.md) | 
+| 🔖 **SPRINT 5** | 15/09 - 21/09  | [Sprint 5 Docs](./docs/sprints/sprint%205.md) | 
+| 🔖 **SPRINT 6** | 22/09 - 28/09  | [Sprint 6 Docs](./docs/sprints/sprint%206.md) | 
+| 🔖 **SPRINT 7** | 29/09 - 05/10  | [Sprint 7 Docs](./docs/sprints/sprint%207.md) | 
+| 🔖 **SPRINT 8** | 06/10 - 12/10  | [Sprint 8 Docs](./docs/sprints/sprint%208.md) | 
+| 🔖 **SPRINT 9** | 13/10 - 19/10  | [Sprint 9 Docs](./docs/sprints/sprint%209.md) | 
 
 ##  Tecnologias <a id="tecnologias"></a>
 
