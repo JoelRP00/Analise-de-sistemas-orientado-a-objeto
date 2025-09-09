@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href ="#projeto"> Projeto</a>  |
-  <a href ="#backlog"> Backlog do Produto</a>  |
+  <a href ="#UserStories"> User Stories</a>  |
   <a href ="#sprint"> Cronograma de Sprints</a>  |
   <a href ="#tecnologias">Tecnologias</a> |
   <a href ="#integrantes"> Integrantes</a> |
@@ -21,7 +21,9 @@ O projeto consiste em desenvolver um gerenciador de chamados auxiliado por IA pa
 priorização e categorização dos chamados, assim como o encaminhamento para o devido técnico, sendo capaz de gerar automaticamente soluções para problemas recorrentes e 
 também soluções já existentes no próprio banco de dados da IA.
 
-
+## User Stories <a id="UserStories">
+  [User Stories](./UserStories.txt)
+  
 ## 📅 Cronograma de Sprints <a id="sprint"></a>
 
 | Sprint          |    Período    | Documentação                                     |
@@ -42,10 +44,8 @@ também soluções já existentes no próprio banco de dados da IA.
 </h4>
 
 
-
 ## Integrantes <a id="integrantes"></a>
 
-## Integrantes
 - [Thor de Oliveira Morciani - G96DFD3](https://github.com/ThorMorciani)
 - [Caio Henrique Barbosa Santos - G976690](https://github.com/CaioHennrique)
 - [Daniel Fagundes da Mota Filho - G97BJA0](https://github.com/DANFAGUNDES0)
