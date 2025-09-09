@@ -9,8 +9,6 @@
   | <a href ="#desafio"> Desafio</a>  |
   <a href ="#solucao"> Solução</a>  |   
    <a href ="#backlog"> Backlog do Produto</a>  |
-  <a href ="#dor">DoR</a>  |
-  <a href ="#dod">DoD</a>  |
   <a href ="#sprint"> Cronograma de Sprints</a>  |
   <a href ="#tecnologias">Tecnologias</a> |
   <a href ="#integrantes"> Integrantes</a> |
@@ -31,23 +29,6 @@ O AIssist permitirá que o usuário tenha total controle sobre o chamado aberto 
 
 ## 📋 Backlog do Projeto <a id="backlog"></a>
   [Backlog](./docs/UserStories.txt)
-
-  ## DoR - Definition of Ready <a id="dor"></a>
-
-* User Stories com **Critérios de Aceitação**
-* Subtarefas divididas **a partir das US**
-* Design no **Figma**
-* Modelagem do **Banco de Dados**
-* Diagrama de **Rotas**
-* Banco de Dados **Vetorizado** do Cliente
-
-## DoD - Definition of Done <a id="dod"></a>
-
-* Manual de Usuário
-* Manual da Aplicação
-* Código completo
-
----
 
 ## Cronograma de Sprints <a id="sprint"></a>
 
