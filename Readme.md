@@ -12,6 +12,7 @@
   <a href ="#sprint"> Cronograma de Sprints</a>  |
   <a href ="#tecnologias">Tecnologias</a> |
   <a href ="#integrantes"> Integrantes</a> |
+  <a href ="#diagramas"> Diagramas</a> |
 </p>
 
 > Status do Projeto: Em desenvolvimento 
@@ -73,6 +74,8 @@ O AIssist permitirá que o usuário tenha total controle sobre o chamado aberto 
 * Código completo
 
 ---
+## Diagramas UML <a id="diagramas"></a>
+[Diagramas](CasoDeUsoPIM.asta)
 
 
 ## Integrantes <a id="integrantes"></a>
